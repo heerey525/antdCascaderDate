@@ -7,6 +7,7 @@ Cascader级联数据：[cities.js](https://github.com/heerey525/antdCascaderDate
 省市二级联动数据：[city](https://github.com/heerey525/antdCascaderDate/tree/master/src/city)
 
 用法参考：[antd级联选择](https://ant.design/components/cascader-cn/)
+网页展示：[网页展示](http://blog.aigouzhushou.com/antdCascaderDate/dist/)
 
     当然你也可以直接下载 https://github.com/heerey525/antdCascaderDate.git
     然后安装依赖 npm install
