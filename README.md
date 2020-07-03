@@ -12,3 +12,5 @@ Cascader级联数据：[cities.js](https://github.com/heerey525/antdCascaderDate
     当然你也可以直接下载 https://github.com/heerey525/antdCascaderDate.git
     然后安装依赖 npm install
     运行 npm start
+
+最近发现很多人star这个项目，所以我新开一个项目将生成此数据的方法公开，https://github.com/heerey525/antdCascaderDateMethod 欢迎star
