@@ -518,18 +518,23 @@ const options = [
                 "children": [
                     {
                         "code": "130502",
-                        "value": "桥东区",
-                        "label": "桥东区"
+                        "value": "襄都区",
+                        "label": "襄都区"
                     },
                     {
                         "code": "130503",
-                        "value": "桥西区",
-                        "label": "桥西区"
+                        "value": "信都区",
+                        "label": "信都区"
                     },
                     {
-                        "code": "130521",
-                        "value": "邢台县",
-                        "label": "邢台县"
+                        "code": "130505",
+                        "value": "任泽区",
+                        "label": "任泽区"
+                    },
+                    {
+                        "code": "130506",
+                        "value": "南和区",
+                        "label": "南和区"
                     },
                     {
                         "code": "130522",
@@ -550,16 +555,6 @@ const options = [
                         "code": "130525",
                         "value": "隆尧县",
                         "label": "隆尧县"
-                    },
-                    {
-                        "code": "130526",
-                        "value": "任县",
-                        "label": "任县"
-                    },
-                    {
-                        "code": "130527",
-                        "value": "南和县",
-                        "label": "南和县"
                     },
                     {
                         "code": "130528",
@@ -3036,6 +3031,11 @@ const options = [
                         "code": "220183",
                         "value": "德惠市",
                         "label": "德惠市"
+                    },
+                    {
+                        "code": "220184",
+                        "value": "公主岭市",
+                        "label": "公主岭市"
                     }
                 ]
             },
@@ -3115,11 +3115,6 @@ const options = [
                         "code": "220323",
                         "value": "伊通满族自治县",
                         "label": "伊通满族自治县"
-                    },
-                    {
-                        "code": "220381",
-                        "value": "公主岭市",
-                        "label": "公主岭市"
                     },
                     {
                         "code": "220382",
@@ -6661,11 +6656,6 @@ const options = [
                         "label": "安远县"
                     },
                     {
-                        "code": "360727",
-                        "value": "龙南县",
-                        "label": "龙南县"
-                    },
-                    {
                         "code": "360728",
                         "value": "定南县",
                         "label": "定南县"
@@ -6709,6 +6699,11 @@ const options = [
                         "code": "360781",
                         "value": "瑞金市",
                         "label": "瑞金市"
+                    },
+                    {
+                        "code": "360783",
+                        "value": "龙南市",
+                        "label": "龙南市"
                     }
                 ]
             },
@@ -11753,6 +11748,11 @@ const options = [
                         "label": "郫都区"
                     },
                     {
+                        "code": "510118",
+                        "value": "新津区",
+                        "label": "新津区"
+                    },
+                    {
                         "code": "510121",
                         "value": "金堂县",
                         "label": "金堂县"
@@ -11766,11 +11766,6 @@ const options = [
                         "code": "510131",
                         "value": "蒲江县",
                         "label": "蒲江县"
-                    },
-                    {
-                        "code": "510132",
-                        "value": "新津县",
-                        "label": "新津县"
                     },
                     {
                         "code": "510181",
@@ -15719,9 +15714,9 @@ const options = [
                 "label": "黄南藏族自治州",
                 "children": [
                     {
-                        "code": "632321",
-                        "value": "同仁县",
-                        "label": "同仁县"
+                        "code": "632301",
+                        "value": "同仁市",
+                        "label": "同仁市"
                     },
                     {
                         "code": "632322",
