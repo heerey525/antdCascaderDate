@@ -7238,9 +7238,9 @@ const options = [
                         "label": "莱山区"
                     },
                     {
-                        "code": "370634",
-                        "value": "长岛县",
-                        "label": "长岛县"
+                        "code": "370614",
+                        "value": "蓬莱区",
+                        "label": "蓬莱区"
                     },
                     {
                         "code": "370681",
@@ -7256,11 +7256,6 @@ const options = [
                         "code": "370683",
                         "value": "莱州市",
                         "label": "莱州市"
-                    },
-                    {
-                        "code": "370684",
-                        "value": "蓬莱市",
-                        "label": "蓬莱市"
                     },
                     {
                         "code": "370685",
