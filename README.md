@@ -1,4 +1,7 @@
 # antdCascaderDate
+[![](https://badgen.net/github/stars/heerey525/antdCascaderDate?color=green)](https://github.com/heerey525/antdCascaderDate)
+[![](https://badgen.net/github/forks/heerey525/antdCascaderDate?color=orange)](https://github.com/heerey525/antdCascaderDate)
+
 对于antd Cascader 内中国省市区数据的补充，数据来源 2020月10月中华人民共和国县以上行政区划代码 http://www.mca.gov.cn/article/sj/xzqh/2020/2020/2020112010001.html
 
 你需要的文件是：
