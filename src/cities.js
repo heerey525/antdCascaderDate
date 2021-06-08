@@ -4393,19 +4393,19 @@ const options = [
                 "label": "南通市",
                 "children": [
                     {
-                        "code": "320602",
+                        "code": "320612",
+                        "value": "通州区",
+                        "label": "通州区"
+                    },
+                    {
+                        "code": "320613",
                         "value": "崇川区",
                         "label": "崇川区"
                     },
                     {
-                        "code": "320611",
-                        "value": "港闸区",
-                        "label": "港闸区"
-                    },
-                    {
-                        "code": "320612",
-                        "value": "通州区",
-                        "label": "通州区"
+                        "code": "320614",
+                        "value": "海门区",
+                        "label": "海门区"
                     },
                     {
                         "code": "320623",
@@ -4421,11 +4421,6 @@ const options = [
                         "code": "320682",
                         "value": "如皋市",
                         "label": "如皋市"
-                    },
-                    {
-                        "code": "320684",
-                        "value": "海门市",
-                        "label": "海门市"
                     },
                     {
                         "code": "320685",
@@ -5327,7 +5322,7 @@ const options = [
                         "label": "湾沚区"
                     },
                     {
-                        "code": "340211",
+                        "code": "340212",
                         "value": "繁昌区",
                         "label": "繁昌区"
                     },
@@ -9074,11 +9069,6 @@ const options = [
                         "label": "公安县"
                     },
                     {
-                        "code": "421023",
-                        "value": "监利县",
-                        "label": "监利县"
-                    },
-                    {
                         "code": "421024",
                         "value": "江陵县",
                         "label": "江陵县"
@@ -9097,6 +9087,11 @@ const options = [
                         "code": "421087",
                         "value": "松滋市",
                         "label": "松滋市"
+                    },
+                    {
+                        "code": "421088",
+                        "value": "监利市",
+                        "label": "监利市"
                     }
                 ]
             },
@@ -10952,14 +10947,14 @@ const options = [
                         "label": "平乐县"
                     },
                     {
-                        "code": "450381",
-                        "value": "荔浦市",
-                        "label": "荔浦市"
-                    },
-                    {
                         "code": "450332",
                         "value": "恭城瑶族自治县",
                         "label": "恭城瑶族自治县"
+                    },
+                    {
+                        "code": "450381",
+                        "value": "荔浦市",
+                        "label": "荔浦市"
                     }
                 ]
             },
@@ -12819,9 +12814,9 @@ const options = [
                         "label": "六枝特区"
                     },
                     {
-                        "code": "520221",
-                        "value": "水城县",
-                        "label": "水城县"
+                        "code": "520204",
+                        "value": "水城区",
+                        "label": "水城区"
                     },
                     {
                         "code": "520281",
