@@ -4721,16 +4721,6 @@ const options = [
                         "label": "上城区"
                     },
                     {
-                        "code": "330103",
-                        "value": "下城区",
-                        "label": "下城区"
-                    },
-                    {
-                        "code": "330104",
-                        "value": "江干区",
-                        "label": "江干区"
-                    },
-                    {
                         "code": "330105",
                         "value": "拱墅区",
                         "label": "拱墅区"
@@ -4764,6 +4754,16 @@ const options = [
                         "code": "330112",
                         "value": "临安区",
                         "label": "临安区"
+                    },
+                    {
+                        "code": "330113",
+                        "value": "临平区",
+                        "label": "临平区"
+                    },
+                    {
+                        "code": "330114",
+                        "value": "钱塘区",
+                        "label": "钱塘区"
                     },
                     {
                         "code": "330122",
@@ -6030,14 +6030,14 @@ const options = [
                 "label": "三明市",
                 "children": [
                     {
-                        "code": "350402",
-                        "value": "梅列区",
-                        "label": "梅列区"
-                    },
-                    {
-                        "code": "350403",
+                        "code": "350404",
                         "value": "三元区",
                         "label": "三元区"
+                    },
+                    {
+                        "code": "350405",
+                        "value": "沙县区",
+                        "label": "沙县区"
                     },
                     {
                         "code": "350421",
@@ -6063,11 +6063,6 @@ const options = [
                         "code": "350426",
                         "value": "尤溪县",
                         "label": "尤溪县"
-                    },
-                    {
-                        "code": "350427",
-                        "value": "沙县",
-                        "label": "沙县"
                     },
                     {
                         "code": "350428",
@@ -6174,6 +6169,16 @@ const options = [
                         "label": "龙文区"
                     },
                     {
+                        "code": "350604",
+                        "value": "龙海区",
+                        "label": "龙海区"
+                    },
+                    {
+                        "code": "350605",
+                        "value": "长泰区",
+                        "label": "长泰区"
+                    },
+                    {
                         "code": "350622",
                         "value": "云霄县",
                         "label": "云霄县"
@@ -6187,11 +6192,6 @@ const options = [
                         "code": "350624",
                         "value": "诏安县",
                         "label": "诏安县"
-                    },
-                    {
-                        "code": "350625",
-                        "value": "长泰县",
-                        "label": "长泰县"
                     },
                     {
                         "code": "350626",
@@ -6212,11 +6212,6 @@ const options = [
                         "code": "350629",
                         "value": "华安县",
                         "label": "华安县"
-                    },
-                    {
-                        "code": "350681",
-                        "value": "龙海市",
-                        "label": "龙海市"
                     }
                 ]
             },
@@ -7906,19 +7901,19 @@ const options = [
                         "label": "涧西区"
                     },
                     {
-                        "code": "410306",
-                        "value": "吉利区",
-                        "label": "吉利区"
+                        "code": "410307",
+                        "value": "偃师区",
+                        "label": "偃师区"
+                    },
+                    {
+                        "code": "410308",
+                        "value": "孟津区",
+                        "label": "孟津区"
                     },
                     {
                         "code": "410311",
                         "value": "洛龙区",
                         "label": "洛龙区"
-                    },
-                    {
-                        "code": "410322",
-                        "value": "孟津县",
-                        "label": "孟津县"
                     },
                     {
                         "code": "410323",
@@ -7954,11 +7949,6 @@ const options = [
                         "code": "410329",
                         "value": "伊川县",
                         "label": "伊川县"
-                    },
-                    {
-                        "code": "410381",
-                        "value": "偃师市",
-                        "label": "偃师市"
                     }
                 ]
             },
@@ -9811,9 +9801,9 @@ const options = [
                         "label": "冷水滩区"
                     },
                     {
-                        "code": "431121",
-                        "value": "祁阳县",
-                        "label": "祁阳县"
+                        "code": "431181",
+                        "value": "祁阳市",
+                        "label": "祁阳市"
                     },
                     {
                         "code": "431122",
@@ -10813,6 +10803,11 @@ const options = [
                         "label": "武鸣区"
                     },
                     {
+                        "code": "450181",
+                        "value": "横州市",
+                        "label": "横州市"
+                    },
+                    {
                         "code": "450123",
                         "value": "隆安县",
                         "label": "隆安县"
@@ -10831,11 +10826,6 @@ const options = [
                         "code": "450126",
                         "value": "宾阳县",
                         "label": "宾阳县"
-                    },
-                    {
-                        "code": "450127",
-                        "value": "横县",
-                        "label": "横县"
                     }
                 ]
             },
@@ -12773,6 +12763,11 @@ const options = [
                         "label": "西昌市"
                     },
                     {
+                        "code": "513402",
+                        "value": "会理市",
+                        "label": "会理市"
+                    },
+                    {
                         "code": "513422",
                         "value": "木里藏族自治县",
                         "label": "木里藏族自治县"
@@ -12786,11 +12781,6 @@ const options = [
                         "code": "513424",
                         "value": "德昌县",
                         "label": "德昌县"
-                    },
-                    {
-                        "code": "513425",
-                        "value": "会理县",
-                        "label": "会理县"
                     },
                     {
                         "code": "513426",
@@ -13070,14 +13060,14 @@ const options = [
                         "label": "七星关区"
                     },
                     {
+                        "code": "520581",
+                        "value": "黔西市",
+                        "label": "黔西市"
+                    },
+                    {
                         "code": "520521",
                         "value": "大方县",
                         "label": "大方县"
-                    },
-                    {
-                        "code": "520522",
-                        "value": "黔西县",
-                        "label": "黔西县"
                     },
                     {
                         "code": "520523",
@@ -13793,6 +13783,11 @@ const options = [
                         "label": "楚雄市"
                     },
                     {
+                        "code": "532302",
+                        "value": "禄丰市",
+                        "label": "禄丰市"
+                    },
+                    {
                         "code": "532322",
                         "value": "双柏县",
                         "label": "双柏县"
@@ -13831,11 +13826,6 @@ const options = [
                         "code": "532329",
                         "value": "武定县",
                         "label": "武定县"
-                    },
-                    {
-                        "code": "532331",
-                        "value": "禄丰县",
-                        "label": "禄丰县"
                     }
                 ]
             },
@@ -14681,9 +14671,9 @@ const options = [
                         "label": "陈仓区"
                     },
                     {
-                        "code": "610322",
-                        "value": "凤翔县",
-                        "label": "凤翔县"
+                        "code": "610305",
+                        "value": "凤翔区",
+                        "label": "凤翔区"
                     },
                     {
                         "code": "610323",
@@ -15078,6 +15068,11 @@ const options = [
                         "label": "汉滨区"
                     },
                     {
+                        "code": "610981",
+                        "value": "旬阳市",
+                        "label": "旬阳市"
+                    },
+                    {
                         "code": "610921",
                         "value": "汉阴县",
                         "label": "汉阴县"
@@ -15111,11 +15106,6 @@ const options = [
                         "code": "610927",
                         "value": "镇坪县",
                         "label": "镇坪县"
-                    },
-                    {
-                        "code": "610928",
-                        "value": "旬阳县",
-                        "label": "旬阳县"
                     },
                     {
                         "code": "610929",
@@ -16652,14 +16642,14 @@ const options = [
                         "label": "乌苏市"
                     },
                     {
+                        "code": "654203",
+                        "value": "沙湾市",
+                        "label": "沙湾市"
+                    },
+                    {
                         "code": "654221",
                         "value": "额敏县",
                         "label": "额敏县"
-                    },
-                    {
-                        "code": "654223",
-                        "value": "沙湾县",
-                        "label": "沙湾县"
                     },
                     {
                         "code": "654224",
@@ -16778,6 +16768,12 @@ const options = [
                 "code": "659010",
                 "value": "胡杨河市",
                 "label": "胡杨河市",
+                "children": []
+            },
+            {
+                "code": "659011",
+                "value": "新星市",
+                "label": "新星市",
                 "children": []
             }
         ]
