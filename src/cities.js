@@ -8664,6 +8664,12 @@ const options = [
                         "label": "新蔡县"
                     }
                 ]
+            },
+            {
+                "code": "419001",
+                "value": "济源市",
+                "label": "济源市",
+                "children": []
             }
         ]
     },
@@ -9257,6 +9263,30 @@ const options = [
                         "label": "鹤峰县"
                     }
                 ]
+            },
+            {
+                "code": "429004",
+                "value": "仙桃市",
+                "label": "仙桃市",
+                "children": []
+            },
+            {
+                "code": "429005",
+                "value": "潜江市",
+                "label": "潜江市",
+                "children": []
+            },
+            {
+                "code": "429006",
+                "value": "天门市",
+                "label": "天门市",
+                "children": []
+            },
+            {
+                "code": "429021",
+                "value": "神农架林区",
+                "label": "神农架林区",
+                "children": []
             }
         ]
     },
@@ -11466,6 +11496,96 @@ const options = [
                 "code": "460400",
                 "value": "儋州市",
                 "label": "儋州市",
+                "children": []
+            },
+            {
+                "code": "469001",
+                "value": "五指山市",
+                "label": "五指山市",
+                "children": []
+            },
+            {
+                "code": "469002",
+                "value": "琼海市",
+                "label": "琼海市",
+                "children": []
+            },
+            {
+                "code": "469005",
+                "value": "文昌市",
+                "label": "文昌市",
+                "children": []
+            },
+            {
+                "code": "469006",
+                "value": "万宁市",
+                "label": "万宁市",
+                "children": []
+            },
+            {
+                "code": "469007",
+                "value": "东方市",
+                "label": "东方市",
+                "children": []
+            },
+            {
+                "code": "469021",
+                "value": "定安县",
+                "label": "定安县",
+                "children": []
+            },
+            {
+                "code": "469022",
+                "value": "屯昌县",
+                "label": "屯昌县",
+                "children": []
+            },
+            {
+                "code": "469023",
+                "value": "澄迈县",
+                "label": "澄迈县",
+                "children": []
+            },
+            {
+                "code": "469024",
+                "value": "临高县",
+                "label": "临高县",
+                "children": []
+            },
+            {
+                "code": "469025",
+                "value": "白沙黎族自治县",
+                "label": "白沙黎族自治县",
+                "children": []
+            },
+            {
+                "code": "469026",
+                "value": "昌江黎族自治县",
+                "label": "昌江黎族自治县",
+                "children": []
+            },
+            {
+                "code": "469027",
+                "value": "乐东黎族自治县",
+                "label": "乐东黎族自治县",
+                "children": []
+            },
+            {
+                "code": "469028",
+                "value": "陵水黎族自治县",
+                "label": "陵水黎族自治县",
+                "children": []
+            },
+            {
+                "code": "469029",
+                "value": "保亭黎族苗族自治县",
+                "label": "保亭黎族苗族自治县",
+                "children": []
+            },
+            {
+                "code": "469030",
+                "value": "琼中黎族苗族自治县",
+                "label": "琼中黎族苗族自治县",
                 "children": []
             }
         ]
@@ -16599,6 +16719,66 @@ const options = [
                         "label": "吉木乃县"
                     }
                 ]
+            },
+            {
+                "code": "659001",
+                "value": "石河子市",
+                "label": "石河子市",
+                "children": []
+            },
+            {
+                "code": "659002",
+                "value": "阿拉尔市",
+                "label": "阿拉尔市",
+                "children": []
+            },
+            {
+                "code": "659003",
+                "value": "图木舒克市",
+                "label": "图木舒克市",
+                "children": []
+            },
+            {
+                "code": "659004",
+                "value": "五家渠市",
+                "label": "五家渠市",
+                "children": []
+            },
+            {
+                "code": "659005",
+                "value": "北屯市",
+                "label": "北屯市",
+                "children": []
+            },
+            {
+                "code": "659006",
+                "value": "铁门关市",
+                "label": "铁门关市",
+                "children": []
+            },
+            {
+                "code": "659007",
+                "value": "双河市",
+                "label": "双河市",
+                "children": []
+            },
+            {
+                "code": "659008",
+                "value": "可克达拉市",
+                "label": "可克达拉市",
+                "children": []
+            },
+            {
+                "code": "659009",
+                "value": "昆玉市",
+                "label": "昆玉市",
+                "children": []
+            },
+            {
+                "code": "659010",
+                "value": "胡杨河市",
+                "label": "胡杨河市",
+                "children": []
             }
         ]
     },

@@ -4,6 +4,13 @@
 
 对于antd Cascader 内中国省市区数据的补充，数据来源 2020月12月中华人民共和国县以上行政区划代码 http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html
 
+202012及之前版本, 数据缺失补充说明：
+> 缺失 三沙市下辖 西沙区、南沙区
+> 缺失 海南省直辖县级市
+> 缺失 新疆维吾尔自治区直辖县级市
+> 缺失 湖北省直辖县级市
+> 缺失 河南省直辖国家产城融合示范区
+
 你需要的文件是：
 
 Cascader级联数据：[cities.js](https://github.com/heerey525/antdCascaderDate/blob/master/src/cities.js)
