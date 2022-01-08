@@ -1,0 +1,35 @@
+{
+  "name": "antdcascaderdate",
+  "version": "1.0.0",
+  "description": "同步于官方的中国省市区数据，适配antd Cascader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heerey525/antdCascaderDate/npm.git"
+  },
+  "keywords": [
+    "antdcascaderdate",
+    "antd",
+    "cascaderdate",
+    "cityData",
+    "中国",
+    "行政区划",
+    "省市",
+    "省市区",
+    "联动"
+  ],
+  "author": "https://github.com/heerey525",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heerey525/antdCascaderDate/issues"
+  },
+  "devDependencies": {
+    "terser-webpack-plugin": "^4.2.0",
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
