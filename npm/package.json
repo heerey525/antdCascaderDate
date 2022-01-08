@@ -1,6 +1,6 @@
 {
-  "name": "antdcascaderdate",
-  "version": "1.0.0",
+  "name": "@heerey525/china-division-data",
+  "version": "1.0.1",
   "description": "同步于官方的中国省市区数据，适配antd Cascader",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heerey525/antdCascaderDate/npm.git"
+    "url": "https://github.com/heerey525/antdCascaderDate/tree/master/npm"
   },
   "keywords": [
     "antdcascaderdate",
