@@ -12,19 +12,39 @@
 > 缺失 湖北省直辖县级市
 > 缺失 河南省直辖国家产城融合示范区
 
-## 用法
+## 使用方法
 
-### 安装引入
+### NPM方式
+
+#### 安装
 
 ```sh
 # npm
 npm install @heerey525/china-division-data --save
 ```
 
+#### 引用
+
 ```sh
 # Cascader级联数据(js): antdOptions
 # 省市二级联动数据(json): provinceData、cityData
 import { antdOptions, cityData, provinceData } from '@heerey525/china-division-data'
+```
+
+### CDN方式
+
+#### 引入
+
+```sh
+<script src="https://unpkg.com/@heerey525/china-division-data@1.0.1/dist/china-division-data.min.js"></script>
+# 或者
+<script src="https://cdn.jsdelivr.net/npm/@heerey525/china-division-data@1.0.1/dist/china-division-data.min.js"></script>
+```
+
+#### 使用
+
+```sh
+chinaDivision.antdOptions
 ```
 
 ### 手动引入
