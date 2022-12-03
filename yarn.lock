@@ -1238,6 +1238,11 @@
   dependencies:
     "@hapi/hoek" "6.x.x"
 
+"@heerey525/china-division-data@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@heerey525/china-division-data/-/china-division-data-1.0.1.tgz#d1b69cad38b5adac7dce6ca6799a8e28fba34af6"
+  integrity sha512-6kjdWGH/ZynKhkUrwjMQ0IMogI4gXA/1syjMZztsEyn8/+8FzdpKrGif58DFgiFOaq2vda8Cg9cFKzpKr2LuVA==
+
 "@jest/console@^24.7.1":
   version "24.7.1"
   resolved "https://registry.yarnpkg.com/@jest/console/-/console-24.7.1.tgz#32a9e42535a97aedfe037e725bd67e954b459545"
@@ -3577,9 +3582,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.0.1"
